@@ -1,143 +1,126 @@
-<h1 align="center">⚡ Hrishikesh Gurrampally ⚡</h1>
+<div align="center">
+  
+<!-- Header Banner with Neon Glow -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=250&section=header&text=Hrishikesh%20Yadav&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20|%20AI%20|%20ML&descAlignY=55&descSize=25" width="100%"/>
 
-<h3 align="center">
-🚀 Full Stack Developer | 🤖 Machine Learning Enthusiast | 💻 Problem Solver
-</h3>
+<!-- Interactive Typing Header -->
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Engineer;Machine+Learning+Explorer;Competitive+Programmer;Problem+Solver;System+Architect" alt="Typing SVG" />
+  </a>
+</h1>
+
+<!-- Social Floating Badges -->
+<p align="center">
+<a href="https://linkedin.com/in/hrishikesh-yadav-g-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 20px"/></a>
+<a href="mailto:hrishiyadav1506@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 20px"/></a>
+<a href="https://github.com/hrishikes15"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 20px"/></a>
+</p>
+
+---
+
+## 💫 Discovering My Universe
+
+<table align="center">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h3>🚀 The Mission</h3>
+      <ul>
+        <li><b>Building</b> real-world scalable backend systems.</li>
+        <li><b>Bridging</b> the gap between Web & AI.</li>
+        <li><b>Solving</b> complex problems with clean, optimized code.</li>
+        <li><b>Obsessed</b> with Apple-style UI/UX aesthetics.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG5pbmZpNXA4eHhndXp4bmZpNXA4eHhndXp4bmZpNXA4eHhndXp4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Tech Constellation
+
+### 🎨 Frontend & Backend Ecosystem
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,nextjs,react,nodejs,express,mongodb,mysql,postman" />
+  </a>
+</p>
+
+### 🧠 Intelligence & Logic
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,tensorflow,pytorch,anaconda" />
+  </a>
+</p>
+
+### ⚙️ Development Forge
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,linux,docker" />
+  </a>
+</p>
+
+---
+
+## 📊 Performance Metrics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrishikes15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikes15&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hrishikes15&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+---
+
+## 🐍 Activity Pulse
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+---
+
+## 🌟 Featured Innovations
+
+> [!TIP]
+> ### 🧠 AI Attendance System
+> *Full-cycle facial recognition architecture with real-time database logging.*
+> `Python` `OpenCV` `Firebase`
+
+> [!IMPORTANT]
+> ### 🌾 Agritap Rental
+> *A high-performance marketplace for agricultural assets.*
+> `MERN Stack` `Redux` `Cloudinary`
+
+> [!NOTE]
+> ### 💳 Fraud Sentry
+> *ML-driven classification engine to detect fraudulent transactions with 98% precision.*
+> `Scikit-Learn` `Pandas` `Matplotlib`
+
+---
+
+## 🕯 Dev Soul
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrishikes15&style=flat-square&color=00F7FF&label=NETWORK+ACCESSES" />
+</div>
+
+<h4 align="center">"Stay Hungry. Stay Foolish. Code Daily." 🚀</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Machine+Learning+Explorer;Competitive+Programmer;Building+Cool+Projects+⚡;Always+Learning+New+Things+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" width="100%"/>
 </p>
 
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🌟 About Me
-
-- 🎓 Student passionate about technology  
-- 🌐 Exploring Full Stack Development & AI/ML  
-- ⚡ Love building real-world scalable projects  
-- 🧠 Strong interest in DSA & Competitive Programming  
-- 🚀 Currently improving backend architecture & ML skills  
-
-<br>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/hrishikesh-yadav-g-">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hrishiyadav1506@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hrishikes15">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,java" />
-</p>
-
-### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,nextjs,react,mongodb,mysql" />
-</p>
-
-### 🤖 Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,anaconda,postman" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrishikes15&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikes15&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikes15&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrishikes15&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hrishikes15&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 Intelligent AI Attendance System
-- Face recognition based smart attendance system
-- Real-time detection and automated logging
-- Built using Python, OpenCV & ML
-
-## 💳 Credit Card Fraud Detection
-- Machine learning model for fraud prediction
-- Data preprocessing + classification techniques
-- Improved detection accuracy using ML algorithms
-
----
-
-# 💡 Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hrishikes15&style=for-the-badge&color=blueviolet"/>
-</p>
-
----
-
-<h3 align="center">⭐ "Code. Build. Learn. Repeat." ⭐</h3>  create much more appealing add much more animations make it look as modern as possible 
+</div>
