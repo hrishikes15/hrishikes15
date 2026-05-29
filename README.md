@@ -104,6 +104,6 @@ Passion : Building futuristic interfaces
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=hrishi1506&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=hrishikes15&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
