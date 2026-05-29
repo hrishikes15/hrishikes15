@@ -93,19 +93,26 @@ Passion: Building futuristic interfaces
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrishi1506&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrishi1506&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi1506&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrishi1506&theme=tokyonight"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=hrishi1506&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=hrishi1506&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hrishi1506&theme=react-dark&hide_border=true&area=true"/>
+</div>
+
+
+
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hrishi1506&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=00F7FF&line=FF00FF&point=FFFFFF"/>
@@ -116,20 +123,20 @@ Passion: Building futuristic interfaces
 # 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrishi1506&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrishi1506&theme=tokyonight"/>
 </p>
 
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/hrishi1506/hrishi1506/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 # 💭 DEVELOPER MANTRA
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&pause=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Code.+Create.+Innovate.+Repeat.;Dream+Big.+Build+Bigger.;Consistency+Beats+Talent."/>
 
 </div>
 
