@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-FF304F?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/hrishikes15">
+  <a href="https://github.com/hrishi1506">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
   </a>
   
@@ -96,22 +96,22 @@ Passion: Building futuristic interfaces
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=hrishikes15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=FF00FF&border_radius=20"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=hrishi1506&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=FF00FF&border_radius=20"/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikes15&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&border_radius=20"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi1506&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&border_radius=20"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=hrishikes15&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=hrishi1506&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hrishikes15&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=00F7FF&line=FF00FF&point=FFFFFF"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hrishi1506&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=00F7FF&line=FF00FF&point=FFFFFF"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284126-0d5d2c4e-5d8e-4b31-a8b2-fefdb58f6c47.gif" width="100%">
@@ -120,7 +120,7 @@ Passion: Building futuristic interfaces
 
 <div align="center">
 
-<img width="84%" src="https://github-profile-trophy.vercel.app/?username=hrishikes15&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
+<img width="84%" src="https://github-profile-trophy.vercel.app/?username=hrishi1506&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </div>
 
@@ -150,7 +150,7 @@ Passion: Building futuristic interfaces
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hrishikes15&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=hrishi1506&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
 
