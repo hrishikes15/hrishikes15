@@ -93,9 +93,9 @@ Passion: Building futuristic interfaces
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=hrishi1506&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=FF00FF&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrishi1506&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi1506&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi1506&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -115,11 +115,9 @@ Passion: Building futuristic interfaces
 
 # 🏆 ACHIEVEMENTS
 
-<div align="center">
-
-<img width="84%" src="https://github-profile-trophy.vercel.app/?username=hrishi1506&theme=algolia&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hrishi1506&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
 
 # 🐍 CONTRIBUTION SNAKE
 
@@ -139,7 +137,9 @@ Passion: Building futuristic interfaces
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31h2v7xxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=1DB954&center=true&vCenter=true&width=700&lines=🎵+Spotify+Widget+Coming+Soon;Currently+Building+Cool+Things+🚀"/>
+</p>
 
 </div>
 
